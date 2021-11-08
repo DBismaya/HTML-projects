@@ -37,45 +37,41 @@ ul li
   align-content: center;
   font-family: 'Oswald', sans-serif;
   letter-spacing: 20px;
-  animation: animate 1.8s linear infinite;
+  animation: animate 0.8s linear infinite;
   display: flex; 
 }
 
 ul li:nth-child(1)
 {
-  animation-delay: 0.2s;
+  animation-delay: 0.1s;
 }
 ul li:nth-child(2)
 {
-  animation-delay: 0.4s;
+  animation-delay: 0.2s;
 }
 ul li:nth-child(3)
 {
-  animation-delay: 0.6s;
+  animation-delay: 0.3s;
 }
 ul li:nth-child(4)
 {
-  animation-delay: 0.8s;
+  animation-delay: 0.4s;
 }
 ul li:nth-child(5)
 {
-  animation-delay: 1s;
+  animation-delay: 0.5s;
 }
 ul li:nth-child(6)
 {
-  animation-delay: 1.2s;
+  animation-delay: 0.6s;
 }
 ul li:nth-child(7)
 {
-  animation-delay: 1.4s;
+  animation-delay: 0.7s;
 }
 ul li:nth-child(8)
 {
-  animation-delay: 1.6s;
-}
-ul li:nth-child(9)
-{
-  animation-delay: 1.8s;
+  animation-delay: 0.8s;
 }
 
   @keyframes animate
